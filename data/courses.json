@@ -1,0 +1,56 @@
+[
+  {
+    "code": "CS-101",
+    "title": "Introduction to Computing",
+    "creditHours": 3,
+    "instructor": "Dr. Ali Raza",
+    "department": "Computer Science",
+    "description": "Fundamental concepts of computer science and problem solving.",
+    "tags": ["intro", "core"]
+  },
+  {
+    "code": "CS-201",
+    "title": "Data Structures",
+    "creditHours": 3,
+    "instructor": "Dr. Usman Tariq",
+    "department": "Computer Science",
+    "description": "Linear and non-linear data structures, algorithms, and complexity.",
+    "tags": ["core", "dsa"]
+  },
+  {
+    "code": "CS-301L",
+    "title": "Full Stack Lab",
+    "creditHours": 1,
+    "instructor": "Engr. Ayesha Malik",
+    "department": "Computer Science",
+    "description": "Practical hands-on lab for full stack web engineering.",
+    "tags": ["lab", "practical"]
+  },
+  {
+    "code": "CS-301",
+    "title": "Web Application Development",
+    "creditHours": 3,
+    "instructor": "Dr. Hamza Rauf",
+    "department": "Computer Science",
+    "description": "Modern full stack web development architectures and frameworks.",
+    "tags": ["web", "fullstack"]
+  },
+  {
+    "code": "CS-305",
+    "title": "Database Systems",
+    "creditHours": 3,
+    "instructor": "Dr. Bilal Siddiqui",
+    "department": "Data Science",
+    "description": "Relational databases, SQL, indexing, and transaction management.",
+    "tags": ["database", "sql"]
+  },
+  {
+    "code": "CS-310",
+    "title": "Operating Systems",
+    "creditHours": 4,
+    "instructor": "Dr. Farooq Khan",
+    "department": "Computer Science",
+    "description": "Processes, threads, memory management, and file systems.",
+    "tags": ["systems", "os"]
+  }
+]

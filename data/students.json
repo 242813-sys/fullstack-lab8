@@ -1,0 +1,26 @@
+[
+  {
+    "rollNumber": "BSCS-023",
+    "name": "Sara Ahmed",
+    "cgpa": 3.8,
+    "department": "Computer Science"
+  },
+  {
+    "rollNumber": "BSCS-024",
+    "name": "Ali Khan",
+    "cgpa": 3.2,
+    "department": "Computer Science"
+  },
+  {
+    "rollNumber": "BSDS-011",
+    "name": "Zainab Fatima",
+    "cgpa": 2.8,
+    "department": "Data Science"
+  },
+  {
+    "rollNumber": "BSE-015",
+    "name": "Bilal Tariq",
+    "cgpa": 3.6,
+    "department": "Software Engineering"
+  }
+]
